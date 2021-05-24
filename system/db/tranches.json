@@ -1,0 +1,1 @@
+[{"id":1,"title":"A","loan_id":1,"interest_month_pc":3,"max_value":1000,"locked":0,"used":1000},{"id":2,"title":"B","loan_id":1,"interest_month_pc":6,"max_value":1000,"locked":0,"used":500}]
